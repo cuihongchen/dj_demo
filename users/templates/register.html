@@ -1,0 +1,12 @@
+{% extends 'base.html' %}
+{% block content %}
+
+    <form method="post" action="{% url 'register' %}">
+    {% csrf_token %}
+        #让表单正确显示所有字段，包括错误信息
+    {{ form.as_p }}
+
+    <button name="submit">register</button>
+    <input type = 'hidden' name="next" value="{% url 'index' %}"/>
+    </form>
+{% endblock content %}
