@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="e65aa32e-f5a1-45a5-84a0-cfb8b6d36f41" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_app/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_app/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_b/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_b/settings.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,23 +53,44 @@
     </task>
     <servers />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="测试第一次使用pycharm提交，readme" />
+    <option name="LAST_COMMIT_MESSAGE" value="测试第一次使用pycharm提交，readme" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="393" y="165" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1682403699850">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="393" y="165" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1682403699850" />
-    <state x="321" y="0" key="CommitChangelistDialog2" timestamp="1682512288540">
+    <state x="-5" y="0" width="1275" height="728" key="CommitChangelistDialog2" timestamp="1683358449924">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="321" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1682512288540" />
-    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1682069672881">
+    <state x="-5" y="0" width="1275" height="728" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1683358449924" />
+    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1683358218468">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1682069672881" />
+    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1683358218468" />
     <state x="184" y="0" key="SettingsEditor" timestamp="1682511988623">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="184" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1682511988623" />
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1682512837858">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1682512837858" />
     <state x="574" y="97" key="VcsDiffUtil.ChangesDialog" timestamp="1682512219013">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
